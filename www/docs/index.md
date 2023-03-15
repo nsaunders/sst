@@ -52,7 +52,7 @@ SST makes it easy to build modern full-stack applications on AWS.
   <li>
     <a href={useBaseUrl("/constructs/StaticSite")}>
       <h3>Static sites</h3>
-      <p>Deploy any static site to your AWS account.</p>
+      <p>Deploy any static site to your aws account.</p>
     </a>
   </li>
 </ul>
